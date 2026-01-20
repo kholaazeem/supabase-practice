@@ -81,8 +81,8 @@ Feel free to test the app using these demo credentials without signing up:
 ## 👤 Author
 
 **[Khola azeem]**
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **GitHub:** [Your GitHub Profile Link]
+* **LinkedIn:** [https://www.linkedin.com/in/khola-azeem-501786363/]
+* **GitHub:** [https://github.com/kholaazeem]
 
 ---
 
